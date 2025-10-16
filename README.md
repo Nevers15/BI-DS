@@ -1,7 +1,7 @@
 # Data Scientist Portfolio
 ---
 
-Hello! My name is Semyon Grigor'ev, and i am a Data Scientist.
+Hello! My name is Semyon Grigor'ev.
 
 This repository contains projects i have completed, demonstrating my competencies in the field of Data Science and Data Analysis. Primarily, this repository serves as a cheat sheet for me in my current job and for future employment opportunities.
 
