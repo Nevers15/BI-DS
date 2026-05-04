@@ -1,4 +1,4 @@
-# Data Scientist Portfolio
+# Data Analyst Portfolio
 ---
 
 Hello! My name is Semyon Grigor'ev.
